@@ -1,2 +1,5 @@
 todo-list/node_modules/*
 todo-list/.*
+
+currency-converter/node_modules/*
+currency-converter/.*
