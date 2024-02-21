@@ -2,8 +2,9 @@ This repository contains various react projects.
 
 Highlighting some of them below:
 
-1. **ToDo List Web Application** : React + Vite application to maintain a User ToDO List.
-2. **Currency Convertion** : React application for Currency Convertion.
+1. React + Vite application to maintain a User ToDo List
+2. React Currency Convertion Application
+3. React Navigation Bar with Routing and Dyanamic Rendering
 
 To see the above apps in action, please visit my [portfolio](https://narasimha-gaonkar.github.io/ngaonkar-portfolio/) link.
 

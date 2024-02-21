@@ -3,3 +3,6 @@ todo-list/.*
 
 currency-converter/node_modules/*
 currency-converter/.*
+
+nav-bar/node_modules/*
+nav-bar/.*
