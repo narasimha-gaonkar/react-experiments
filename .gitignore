@@ -6,3 +6,9 @@ currency-converter/.*
 
 nav-bar/node_modules/*
 nav-bar/.*
+
+
+spotify-clone/client/node_modules/*
+spotify-clone/client/.*
+spotify-clone/server/node_modules/*
+spotify-clone/server/.*
