@@ -38,5 +38,3 @@ Start the development server:
     ```
 
 Navigate to `http://localhost:3000` to view the navigation bar in action.
-
-This README provides a quick overview of the project, how to set it up, its features, and how to contribute. Customize it as needed for your project!
