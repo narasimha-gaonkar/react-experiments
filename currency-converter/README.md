@@ -1,6 +1,6 @@
 ## React application for Currency Convertion.
 
-![Sample Scteenshot](/public/curency-converter.png)
+![Sample Screenshot](public/curency-converter.png)
 
 ## Functionalities:
 
