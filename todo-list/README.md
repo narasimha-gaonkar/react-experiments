@@ -2,6 +2,8 @@
 
 React application to maintain a User ToDO List.
 
+![App Screenshot](app-screenshot.png.png)
+
 **Functionalities:**
 
 -   Gets ToDo list from Local Storage

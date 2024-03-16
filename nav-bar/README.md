@@ -2,6 +2,8 @@
 
 This project is a simple navigation bar built using React and React Router.
 
+![App Screenshot](public/app-screenshot.png)
+
 ## Features
 
 -   Navigation bar with links to different pages
