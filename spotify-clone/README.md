@@ -2,6 +2,8 @@
 
 This project is a Spotify clone built using React. It provides features such as playing songs along with lyrics, automatic token refresh, and utilizes the Spotify Web API.
 
+![Screenshot 1](client/public/Screenshot_1.png) ![Screenshot 2](client/public/Screenshot_2.png)
+
 ## Features
 
 -   Play songs along with lyrics

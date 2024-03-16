@@ -2,7 +2,7 @@
 
 React application to maintain a User ToDO List.
 
-![App Screenshot](app-screenshot.png.png)
+![App Screenshot](app-screenshot.png)
 
 **Functionalities:**
 
